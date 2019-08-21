@@ -1,0 +1,1263 @@
+[
+  {
+    "name": "Schronisko dla Zwierząt w Celestynowie",
+    "street": "ul. Prosta 3",
+    "city": "Celestynów",
+    "postcode": "05-430",
+    "county": "mazowieckie",
+    "telephone": "22 789-70-61",
+    "website": "brak",
+    "location": {
+      "long": "21.37013",
+      "lat": "52.06815"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Chorzowie",
+    "street": "ul. Opolska 36 skr. poczt. 85",
+    "city": "Chorzów",
+    "postcode": "41-500",
+    "county": "śląskie",
+    "telephone": "32 249-84-52",
+    "website": "http://www.chorzow.schronisko.com",
+    "location": {
+      "long": "18.9278984",
+      "lat": "50.3097368"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Częstochowie",
+    "street": "ul. Gilowa 44/46",
+    "city": "Częstochowa",
+    "postcode": "42-200",
+    "county": "śląskie",
+    "telephone": "34 361-65-66",
+    "website": "schronisko.czestochowa.pl",
+    "location": {
+      "long": "19.1599186",
+      "lat": "50.7909447"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Kiczarowie",
+    "street": "Kiczarowo 29",
+    "city": "Stargard",
+    "postcode": "73-110",
+    "county": "zachodniopomorskie",
+    "telephone": "661-964-552",
+    "website": "brak",
+    "location": {
+      "long": "15.0645844",
+      "lat": "53.3549367"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Koninie",
+    "street": "ul. Gajowa 7a",
+    "city": "Konin",
+    "postcode": "62-510",
+    "county": "wielkopolskie",
+    "telephone": "63 243-80-38",
+    "website": "schroniskokonin.pl",
+    "location": {
+      "long": "18.2633134",
+      "lat": "52.2446073"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Krotoszynie",
+    "street": "ul. Ceglarska",
+    "city": "Krotoszyn",
+    "postcode": "63-700",
+    "county": "wielkopolskie",
+    "telephone": "62 725-25-01",
+    "website": "krotoszyn.eadopcje.org",
+    "location": {
+      "long": "17.4463007",
+      "lat": "51.6913775"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Mysłowicach",
+    "street": "ul. Sosnowiecka 16",
+    "city": "Mysłowice",
+    "postcode": "41-400",
+    "county": "śląskie",
+    "telephone": "32 316-08-85",
+    "website": "myslowice.toz.pl",
+    "location": {
+      "long": "19.1348281",
+      "lat": "50.2550601"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Piotrkowie Trybunalskim",
+    "street": "ul. Małopolska 3 - Podole",
+    "city": "Piotrków Trybunalski",
+    "postcode": "97-300",
+    "county": "łódzkie",
+    "telephone": "502-614-063",
+    "website": "schronisko-piotrkow.pl",
+    "location": {
+      "long": "",
+      "lat": ""
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Radlinie k. Jarocina",
+    "street": "Radlin 57 B",
+    "city": "Jarocin",
+    "postcode": "63-200",
+    "county": "wielkopolskie",
+    "telephone": "663-735-974",
+    "website": "brak",
+    "location": {
+      "long": "19.7403772",
+      "lat": "51.3860106"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Rozwarzynie k. Nakła",
+    "street": "ul. Wyzwolenia",
+    "city": "Nakło",
+    "postcode": "89-100",
+    "county": "kujawsko-pomorskie",
+    "telephone": "600-931-012",
+    "website": "brak",
+    "location": {
+      "long": "17.5819673",
+      "lat": "53.1153643"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Słupsku",
+    "street": "ul. Portowa 11",
+    "city": "Słupsk",
+    "postcode": "76-200",
+    "county": "pomorskie",
+    "telephone": "59 842-29-59",
+    "website": "schronisko.slupsk.pl",
+    "location": {
+      "long": "17.0206501",
+      "lat": "54.4839756"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Sochaczewie",
+    "street": "Kożuszki Parcel 76A",
+    "city": "Sochaczew",
+    "postcode": "96-500",
+    "county": "mazowieckie",
+    "telephone": "505 110 564",
+    "website": "sochaczew.toz.pl",
+    "location": {
+      "long": "20.2871561",
+      "lat": "52.2273821"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Sopocie",
+    "street": "ul. Malczewskiego 38",
+    "city": "Sopot",
+    "postcode": "81-817",
+    "county": "pomorskie",
+    "telephone": "58 551-24-57",
+    "website": "schronisko.sopot.toz.pl",
+    "location": {
+      "long": "18.5377104",
+      "lat": "54.4531572"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt we Wrocławiu",
+    "street": "ul. Ślazowa 2",
+    "city": " Wrocław",
+    "postcode": "51-007",
+    "county": "dolnośląskie",
+    "telephone": "71 362-56-74",
+    "website": "schroniskowroclaw.pl",
+    "location": {
+      "long": "16.9953677",
+      "lat": "51.1531658"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Zabrzu",
+    "street": "ul. Bytomska 133",
+    "city": "Zabrze",
+    "postcode": "41-800",
+    "county": "śląskie",
+    "telephone": "32 271-47-97",
+    "website": "psitulmnie.pl",
+    "location": {
+      "long": "18.8373889",
+      "lat": "50.3265107"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Dłużynie Górnej",
+    "street": "Dłużyna Górna 1F",
+    "city": "Pieńsk",
+    "postcode": "59-930",
+    "county": "dolnośląskie",
+    "telephone": "75 778-04-12",
+    "website": "schroniskodg.pl",
+    "location": {
+      "long": "15.1860854",
+      "lat": "51.2403472"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Dzierżoniowie",
+    "street": "ul. Brzegowa 151",
+    "telephone": "74 831-18-00",
+    "city": "Dzierżoniów",
+    "postcode": "58-200",
+    "county": "dolnośląskie",
+    "website": "schroniskoazyl.eu",
+    "location": {
+      "long": "16.6170094",
+      "lat": "50.7446686"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Jeleniej Górze",
+    "street": "ul. Spółdzielcza 32a",
+    "city": "Jelenia Góra",
+    "postcode": "58-500",
+    "county": "dolnośląskie",
+    "telephone": "75 642-01-56",
+    "website": "mpgk.jgora.pl",
+    "location": {
+      "long": "15.7039601",
+      "lat": "50.8918586"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Legnicy",
+    "street": "ul. Ceglana 2",
+    "city": "Legnica",
+    "postcode": "59-200",
+    "county": "dolnośląskie",
+    "telephone": "76 866-02-65",
+    "website": "legnica.eschronisko.pl",
+    "location": {
+      "long": "16.1213033",
+      "lat": "51.1969692"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Przylasku",
+    "street": "Przylasek 18",
+    "city": "Platerówka",
+    "postcode": "59-816",
+    "county": "dolnośląskie",
+    "telephone": "511-984-512",
+    "website": "przylasek.eschronisko.pl",
+    "location": {
+      "long": "15.2584005",
+      "lat": "51.094145"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Wałbrzychu",
+    "street": "ul. Łokietka 7",
+    "city": "Wałbrzych",
+    "postcode": "58-303",
+    "county": "dolnośląskie",
+    "telephone": "74 842-42-23",
+    "website": "schronisko.walbrzych.pl",
+    "location": {
+      "long": "16.2839252",
+      "lat": "50.7389113"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt we Wrocławiu",
+    "street": "ul. Ślazowa 2",
+    "city": "Wrocław",
+    "postcode": "51-007",
+    "county": "dolnośląskie",
+    "telephone": "71 362-56-74",
+    "website": "schroniskowroclaw.pl",
+    "location": {
+      "long": "16.9953677",
+      "lat": "51.1531658"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Brodnicy",
+    "street": "ul. Ustronie 20a",
+    "city": "Brodnica",
+    "postcode": "87-300",
+    "county": "kujawsko-pomorskie",
+    "telephone": "56 498 26 29",
+    "website": "reksio.cdmedia.pl",
+    "location": {
+      "long": "19.3717047",
+      "lat": "53.2349782"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Bydgoszczy",
+    "street": "ul. Grunwaldzka 298",
+    "city": "Bydgoszcz",
+    "postcode": "85-438",
+    "county": "kujawsko-pomorskie",
+    "telephone": "512 282 853",
+    "website": "schronisko.org.pl",
+    "location": {
+      "long": "17.9015218",
+      "lat": "53.1529916"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Toruniu",
+    "street": "ul. Przybyszewskiego 3",
+    "city": "Toruń",
+    "postcode": "87-100",
+    "county": "kujawsko-pomorskie",
+    "telephone": "56 622-48-87",
+    "website": "schronisko-torun.oinfo.pl",
+    "location": {
+      "long": "18.5667873",
+      "lat": "53.0085534"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt we Włocławku",
+    "street": "ul. Przemysłowa 16",
+    "city": "Włocławek",
+    "postcode": "87-800",
+    "county": "kujawsko-pomorskie",
+    "telephone": "54 233-17-30",
+    "website": "schronisko-wloclawek.pl",
+    "location": {
+      "long": "19.1264681",
+      "lat": "52.6378413"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Białej Podlasce",
+    "street": "ul. Olszowa 4",
+    "city": "Biała Podlaska",
+    "postcode": "21-500",
+    "county": "lubelskie",
+    "telephone": "83 344-51-37",
+    "website": "azyl-schronisko.pl",
+    "location": {
+      "long": "23.1138721",
+      "lat": "51.9993538"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Lublinie",
+    "street": "ul. Metalurgiczna 5",
+    "city": "Lublin",
+    "postcode": "20-234",
+    "county": "lubelskie",
+    "telephone": "81 466 26 42",
+    "website": "schronisko-zwierzaki.lublin.pl",
+    "location": {
+      "long": "22.6322481",
+      "lat": "51.241164"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Zamościu",
+    "street": "ul. Braterstwa Broni 161",
+    "city": "Zamość",
+    "postcode": "22-400",
+    "county": "lubelskie",
+    "telephone": "84 641-12-86",
+    "website": "schroniskozamosc.eu",
+    "location": {
+      "long": "23.1934558",
+      "lat": "50.7271908"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Gorzowie Wielkopolskim",
+    "street": "ul. Fabryczna 97, ",
+    "city": "Gorzów Wielkopolski",
+    "postcode": "66-400",
+    "county": "lubuskie",
+    "telephone": "95 728-72-12",
+    "website": "sioz.pl",
+    "location": {
+      "long": "15.2090323",
+      "lat": "52.719255"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Zielonej Górze",
+    "street": "ul. Szwajcarska 4",
+    "city": "Zielona Góra",
+    "postcode": "65-169",
+    "county": "lubuskie",
+    "telephone": "68 323-07-66",
+    "website": "schroniskozg.pl",
+    "location": {
+      "long": "15.5386503",
+      "lat": "51.9483342"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Bełchatowie",
+    "street": "Zdzieszulice k/ Bełchatowa",
+    "city": "Bełchatów",
+    "postcode": "97-400",
+    "county": "łódzkie",
+    "telephone": "44 633-38-77",
+    "website": "schroniskobelchatow.pl",
+    "location": {
+      "long": "19.3924466",
+      "lat": "51.3457436"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Łodzi",
+    "street": "ul. Marmurowa 4",
+    "city": "Łódź",
+    "postcode": "91-610",
+    "county": "łódzkie",
+    "telephone": "42 656-78-42",
+    "website": "schronisko-lodz.pl",
+    "location": {
+      "long": "19.5322117",
+      "lat": "51.7972246"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Pabianicach",
+    "street": "ul. Partyzancka 110",
+    "city": "Pabianice",
+    "postcode": "95-200",
+    "county": "łódzkie",
+    "telephone": "42 227-08-50",
+    "website": "schronisko-pabianice.eu",
+    "location": {
+      "long": "19.3770515",
+      "lat": "51.6720542"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Piotrkowie Trybunalskim",
+    "street": "ul. Małopolska 3 - Podole",
+    "city": "Piotrków Trybunalski",
+    "postcode": "97-300",
+    "county": "łódzkie",
+    "telephone": "502 614 063",
+    "website": "schronisko-piotrkow.pl",
+    "location": {
+      "long": "19.7403772",
+      "lat": "51.3860106"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Tomaszowie Mazowieckim",
+    "street": "ul. Kępa 3",
+    "city": "Tomaszów Mazowiecki",
+    "postcode": "97-200",
+    "county": "łódzkie",
+    "telephone": "798 781 565",
+    "website": "brak",
+    "location": {
+      "long": "20.0368685",
+      "lat": "51.5314289"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Krakowie",
+    "street": "ul. Rybna 3",
+    "city": "Kraków",
+    "postcode": "30-254",
+    "county": "małopolskie",
+    "telephone": "12 429-74-72",
+    "website": "schronisko.krakow.pl",
+    "location": {
+      "long": "19.8818515",
+      "lat": "50.0458116"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Nowym Targu",
+    "street": "ul. Kokoszków 101",
+    "city": "Nowy Targ",
+    "postcode": "34-101",
+    "county": "małopolskie",
+    "telephone": "18 448 84 33",
+    "website": "brak",
+    "location": {
+      "long": "20.0605952",
+      "lat": "49.4938357"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Oświęcimiu",
+    "street": "ul. Kamieniec 15",
+    "city": "Oświęcim",
+    "postcode": "32-600",
+    "county": "małopolskie",
+    "telephone": "691 485 682",
+    "website": "tozanimalsoswiecim.pl",
+    "location": {
+      "long": "19.2052354",
+      "lat": "50.0226472"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Boguszycach Małych",
+    "street": "Boguszyce Małe 25",
+    "city": "Rawa Mazowiecka",
+    "postcode": "96-233",
+    "county": "łódzkie",
+    "telephone": "509-201-457 (po godz. 16:00) oraz 513-430-207",
+    "website": "psiaszansa.pl",
+    "location": {
+      "long": "20.1696212",
+      "lat": "51.7476513"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Ciechanowie",
+    "street": "Pawłowo",
+    "city": "Ciechanów",
+    "postcode": "06-400",
+    "county": "mazowieckie",
+    "telephone": "23 611 13 59",
+    "website": "schronisko.pukciechanow.pl",
+    "location": {
+      "long": "20.5228848",
+      "lat": "52.9221837"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Józefowie k. Legionowa",
+    "street": "ul. Strużańska 15",
+    "city": "Legionowo",
+    "postcode": "05-119",
+    "county": "mazowieckie",
+    "telephone": "694 642 098",
+    "website": "schroniskojozefow.pl",
+    "location": {
+      "long": "20.9730568",
+      "lat": "52.3906812"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Korabiewicach",
+    "street": "Korabiewice 11, k/Żyrardowa",
+    "city": "Puszcza Mariańska",
+    "postcode": "96-122",
+    "county": "mazowieckie",
+    "telephone": "519 615 975",
+    "website": "schronisko.info.pl",
+    "location": {
+      "long": "20.4304828",
+      "lat": "51.9667454"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Milanówku",
+    "street": "ul. Brwinowska 48",
+    "city": "Milanówek",
+    "postcode": "05-710",
+    "county": "mazowieckie",
+    "telephone": "22 724-82-05",
+    "website": "schroniskomilanowek.pl",
+    "location": {
+      "long": "20.6916079",
+      "lat": "52.1169499"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Radomiu",
+    "street": "ul. Witosa 96",
+    "city": "Radom",
+    "postcode": "26-600",
+    "county": "mazowieckie",
+    "telephone": "48 384-77-73",
+    "website": "schronisko.radom.pl",
+    "location": {
+      "long": "21.1669602",
+      "lat": "51.4671518"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Sochaczewie",
+    "street": "Kożuszki Parcel 76A",
+    "city": "Sochaczew",
+    "postcode": "96-500",
+    "county": "mazowieckie",
+    "telephone": "505 110 564",
+    "website": "sochaczew.toz.pl",
+    "location": {
+      "long": "20.2871561",
+      "lat": "52.2273821"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt na Paluchu w Warszawie",
+    "street": "ul. Na Skraju 2c",
+    "city": "Warszawa",
+    "postcode": "02-197",
+    "county": "mazowieckie",
+    "telephone": "22 846-02-36",
+    "website": "napaluchu.waw.pl",
+    "location": {
+      "long": "20.9614718",
+      "lat": "52.1565232"
+    }
+  },
+  {
+    "name": "Fundacja Azylu pod Psim Aniołem w Warszawie",
+    "street": "ul. Kosodrzewiny 7/9",
+    "city": "Warszawa",
+    "postcode": "04-979",
+    "county": "mazowieckie",
+    "telephone": "509 117 723",
+    "website": "psianiol.org.pl",
+    "location": {
+      "long": "21.2030008",
+      "lat": "52.1566662"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Żyrardowie",
+    "street": "ul. Czysta 3",
+    "city": "Żyrardów",
+    "postcode": "05-731",
+    "county": "mazowieckie",
+    "telephone": "46 855-25-82",
+    "website": "schroniak.pl",
+    "location": {
+      "long": "20.4248131",
+      "lat": "52.0625943"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Nysie",
+    "street": "ul. Kondradowa 2",
+    "city": "Nysa",
+    "postcode": "48-303",
+    "county": "opolskie",
+    "telephone": "77 431 04 99",
+    "website": "schronisko.com",
+    "location": {
+      "long": "17.358499",
+      "lat": "50.4752041"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Opolu",
+    "street": "ul. Torowa 9",
+    "city": "Opole",
+    "postcode": "45-587",
+    "county": "opolskie",
+    "telephone": "77 454 59 02",
+    "website": "schroniskowopolu.pl",
+    "location": {
+      "long": "17.9317735",
+      "lat": "50.6594005"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Mielcu",
+    "street": "ul. Targowa 11",
+    "city": "Mielec",
+    "postcode": "39-300",
+    "county": "podkarpackie",
+    "telephone": "888 668 536",
+    "website": "brak",
+    "location": {
+      "long": "21.4332844",
+      "lat": "50.2850359"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Rzeszowie - Przytulisko",
+    "street": "ul. Ciepłownicza 3",
+    "city": "Rzeszów",
+    "postcode": "35-322",
+    "county": "podkarpackie",
+    "telephone": "17 742 11 09",
+    "website": "kundelek.rsoz.org",
+    "location": {
+      "long": "22.0182313",
+      "lat": "50.0557584"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Białymstoku",
+    "street": "ul. Dolistowska 2",
+    "city": "Białystok",
+    "postcode": "15-197",
+    "county": "podlaskie",
+    "telephone": "85 675-37-00",
+    "website": "schronisko.bialystok.pl",
+    "location": {
+      "long": "23.209716",
+      "lat": "53.139931"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Suwałkach",
+    "street": "ul. Sianożęć 3a",
+    "city": "Suwałki",
+    "postcode": "16-400",
+    "county": "podlaskie",
+    "telephone": "87 563-01-73",
+    "website": "e-schronisko.pl",
+    "location": {
+      "long": "22.9544164",
+      "lat": "54.0893536"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Chojnicach",
+    "street": "ul. Igielska 24",
+    "city": "Chojnice",
+    "postcode": "89-600",
+    "county": "pomorskie",
+    "telephone": "52 397 31 02",
+    "website": "przytuliskochojnice.pl",
+    "location": {
+      "long": "17.5744274",
+      "lat": "53.7218419"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Gdańsku",
+    "street": "ul. Przyrodników 14",
+    "city": "Gdańsk",
+    "postcode": "80-298",
+    "county": "pomorskie",
+    "telephone": "58 522-37-80",
+    "website": "schroniskopromyk.pl",
+    "location": {
+      "long": "18.4471392",
+      "lat": "54.3747615"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Gdyni",
+    "street": "ul. Małokacka 3 A",
+    "city": "Gdynia",
+    "postcode": "81-654",
+    "county": "pomorskie",
+    "telephone": "58 622-25-52",
+    "website": "brak",
+    "location": {
+      "long": "18.5254785",
+      "lat": "54.4927299"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Słupsku",
+    "street": "ul. Portowa 11",
+    "city": "Słupsk",
+    "postcode": "76-200",
+    "county": "pomorskie",
+    "telephone": "59 842-29-59",
+    "website": "schronisko.slupsk.pl",
+    "location": {
+      "long": "17.0207245",
+      "lat": "54.4839222"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Sopocie",
+    "street": "ul. Malczewskiego 38",
+    "city": "Sopot",
+    "postcode": "81-817",
+    "county": "pomorskie",
+    "telephone": "58 551-24-57",
+    "website": "schronisko.sopot.toz.pl",
+    "location": {
+      "long": "",
+      "lat": ""
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Starogardzie Gdańskim",
+    "street": "ul. Hermanowska 24",
+    "city": "Starogard Gdański",
+    "postcode": "83-200",
+    "county": "pomorskie",
+    "telephone": "58 560-99-31",
+    "website": "brak",
+    "location": {
+      "long": "18.5393892",
+      "lat": "54.4531401"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Bielsku-Białej",
+    "street": "ul. Reksia 48",
+    "city": "Bielsko-Biała",
+    "postcode": "43-305",
+    "county": "śląskie",
+    "telephone": "33 814-18-18",
+    "website": "schronisko.bielsko.biala.pl",
+    "location": {
+      "long": "19.0906449",
+      "lat": "49.8290406"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Bytomiu",
+    "street": "ul. Łaszczyka 18",
+    "city": "Bytom",
+    "postcode": "41-900",
+    "county": "śląskie",
+    "telephone": "32 395-21-75",
+    "website": "schroniskobytom.pl",
+    "location": {
+      "long": "18.8531428",
+      "lat": "50.3522296"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Chorzowie",
+    "street": "ul. Opolska 36 skr. poczt. 85",
+    "city": "Chorzów",
+    "postcode": "41-500",
+    "county": "śląskie",
+    "telephone": "32 249-84-52",
+    "website": "chorzow.schronisko.com",
+    "location": {
+      "long": "18.929849",
+      "lat": "50.3099315"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Cieszynie",
+    "street": "ul. Cicha 10",
+    "city": "Cieszyn",
+    "postcode": "43-400",
+    "county": "śląskie",
+    "telephone": "33 851-55-11",
+    "website": "schronisko.ustronet.pl",
+    "location": {
+      "long": "18.6491063",
+      "lat": "49.7670038"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Częstochowie",
+    "street": "ul. Gilowa 44/46",
+    "city": "Częstochowa",
+    "postcode": "42-200",
+    "county": "śląskie",
+    "telephone": "34 361-65-66",
+    "website": "schronisko.czestochowa.pl",
+    "location": {
+      "long": "19.1607585",
+      "lat": "50.7910011"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Gliwicach",
+    "street": "ul. Wschodnia 56",
+    "city": "Gliwice",
+    "postcode": "44-119",
+    "county": "śląskie",
+    "telephone": "519 743 556",
+    "website": "schronisko.gliwice.pl",
+    "location": {
+      "long": "18.7327014",
+      "lat": "50.2766972"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Miedarach",
+    "street": "ul. 1 Maja",
+    "city": "Miedary",
+    "postcode": "42-674",
+    "county": "śląskie",
+    "telephone": "501 614 495",
+    "website": "brak",
+    "location": {
+      "long": "18.7485883",
+      "lat": "50.4657213"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Mysłowicach",
+    "street": "ul. Sosnowiecka 16",
+    "city": "Mysłowice",
+    "postcode": "41-400",
+    "county": "śląskie",
+    "telephone": "32 316-08-85",
+    "website": "myslowice.toz.pl",
+    "location": {
+      "long": "19.1363326",
+      "lat": "50.2549953"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Raciborzu",
+    "street": "ul. Komunalna 9",
+    "city": "Racibórz",
+    "postcode": "47-400",
+    "county": "śląskie",
+    "telephone": "32 415-88-44",
+    "website": "chronisko.pk-raciborz.pl",
+    "location": {
+      "long": "18.2387972",
+      "lat": "50.1046404"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Rudzie Śląskiej",
+    "street": "ul. Bujoczka",
+    "city": "Ruda Śląska",
+    "postcode": "41-705",
+    "county": "śląskie",
+    "telephone": "32 248-03-62",
+    "website": "fauna.rsl.pl",
+    "location": {
+      "long": "18.8411592",
+      "lat": "50.3146889"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Rybniku",
+    "street": "ul. Majątkowa 42",
+    "city": "Rybnik",
+    "postcode": "44-207",
+    "county": "śląskie",
+    "telephone": "32 424-62-99",
+    "website": "schronisko.rybnik.pl",
+    "location": {
+      "long": "18.5374771",
+      "lat": "50.1282151"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Sosnowcu",
+    "street": "ul. Baczyńskiego 2b",
+    "city": "Sosnowiec",
+    "postcode": "41-203",
+    "county": "śląskie",
+    "telephone": "669-096-872",
+    "website": "schronisko.sosnowiec.pl",
+    "location": {
+      "long": "19.0886595",
+      "lat": "50.2882194"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Tarnowskich Górach",
+    "street": "ul. Zagórska 173a",
+    "city": "Tarnowskie Góry",
+    "postcode": "42-600",
+    "county": "śląskie",
+    "telephone": "600-634-303",
+    "website": "brak",
+    "location": {
+      "long": "18.8340212",
+      "lat": "50.461278"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Tychach",
+    "street": "ul. Przejazdowa 101",
+    "city": "Tychy",
+    "postcode": "43-100",
+    "county": "śląskie",
+    "telephone": "605-897-607",
+    "website": "schronisko.tychy.pl",
+    "location": {
+      "long": "19.0501593",
+      "lat": "50.1006988"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Zabrzu",
+    "street": "ul. Bytomska 133",
+    "city": "Zabrze",
+    "postcode": "41-800",
+    "county": "śląskie",
+    "telephone": "32 271-47-97",
+    "website": "psitulmnie.pl",
+    "location": {
+      "long": "18.8392091",
+      "lat": "50.3265392"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Żywcu",
+    "street": "ul. Kabaty 2",
+    "city": "Żywiec",
+    "postcode": "34-300",
+    "county": "śląskie",
+    "telephone": "694 475 951",
+    "website": "beskid-eko.pl",
+    "location": {
+      "long": "19.1751488",
+      "lat": "49.6847987"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Kielcach",
+    "street": "ul P. Ściegiennego 203",
+    "city": "Kielce",
+    "postcode": "25-124",
+    "county": "świętokrzyskie",
+    "telephone": "41 361-67-24",
+    "website": "schroniskodyminy.pl",
+    "location": {
+      "long": "20.6241019",
+      "lat": "50.8339177"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Elblągu",
+    "street": "ul. Królewiecka 223",
+    "city": "Elbląg",
+    "postcode": "82-300",
+    "county": "warmińsko-mazurskie",
+    "telephone": "55 234-16-46",
+    "website": "schronisko.elblag.pl",
+    "location": {
+      "long": "19.4470239",
+      "lat": "54.1844242"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Iławie",
+    "street": "ul. Komunalna 2a",
+    "city": "Iława",
+    "postcode": "14-200",
+    "county": "warmińsko-mazurskie",
+    "telephone": "531 532 085",
+    "website": "schroniskoilawa.pl",
+    "location": {
+      "long": "19.5819645",
+      "lat": "53.5775208,"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Olsztynie",
+    "street": "ul. Turystyczna 2",
+    "city": "Olsztyn",
+    "postcode": "10-368",
+    "county": "warmińsko-mazurskie",
+    "telephone": "89 526-82-15",
+    "website": "schronisko.olsztyn.pl",
+    "location": {
+      "long": "20.5024828",
+      "lat": "53.8159823"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Ostródzie",
+    "street": "ul. Olsztyńska",
+    "city": "Ostróda",
+    "postcode": "14-100",
+    "county": "warmińsko-mazurskie",
+    "telephone": "88 646-55-61",
+    "website": "brak",
+    "location": {
+      "long": "19.9896834",
+      "lat": "53.7052504"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Szczytnie",
+    "street": "ul. Łomżyńska 6",
+    "city": "Szczytno",
+    "postcode": "12-100",
+    "county": "warmińsko-mazurskie",
+    "telephone": "694 497 374",
+    "website": "schronisko.miastoszczytno.pl",
+    "location": {
+      "long": "20.9958118",
+      "lat": "53.5579699"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Gnieźnie",
+    "street": "ul. Kawiary 38",
+    "city": "Gniezno",
+    "postcode": "62-200",
+    "county": "wielkopolskie",
+    "telephone": "61 424 58 65",
+    "website": "urbis.gniezno.pl",
+    "location": {
+      "long": "17.615122",
+      "lat": "52.5182388"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Jędrzejewie",
+    "street": "Droga Wojewódzka 117",
+    "city": "Jędrzejewo",
+    "postcode": "64-713",
+    "county": "wielkopolskie",
+    "telephone": "brak",
+    "website": "brak",
+    "location": {
+      "long": "16.3763437",
+      "lat": "52.9133846,"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Kaliszu",
+    "street": "ul. Warszawska 95",
+    "city": "Kalisz",
+    "postcode": "62-800",
+    "county": "wielkopolskie",
+    "telephone": "62 751 35 25",
+    "website": "schronisko.kalisz.pl",
+    "location": {
+      "long": "18.1137153",
+      "lat": "51.7736723"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Koninie",
+    "street": "ul. Gajowa 7a",
+    "city": "Konin",
+    "postcode": "62-510",
+    "county": "wielkopolskie",
+    "telephone": "63 243-80-38",
+    "website": "schroniskokonin.pl",
+    "location": {
+      "long": "18.2633134",
+      "lat": "52.2446073"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Krotoszynie",
+    "street": "ul. Ceglarska 11",
+    "city": "Krotoszyn",
+    "postcode": "63-700",
+    "county": "wielkopolskie",
+    "telephone": "502 616 205",
+    "website": "krotoszyn.eadopcje.org",
+    "location": {
+      "long": "17.4483122",
+      "lat": "51.6913405"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Obornikach Wielkopolskich",
+    "street": "ul. Łopatyńskiego 1",
+    "city": "Oborniki Wielkopolskie",
+    "postcode": "64-600",
+    "county": "wielkopolskie",
+    "telephone": "61 296-00-17",
+    "website": "schroniskoazorek.pl",
+    "location": {
+      "long": "16.8171145",
+      "lat": "52.6552064"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Ostrowie Wielkopolskim",
+    "street": "ul. Pruślińska 3",
+    "city": "Wysocko Wielkie",
+    "postcode": "63-400",
+    "county": "wielkopolskie",
+    "telephone": "662-036-964",
+    "website": "schroniskoostrow.pl",
+    "location": {
+      "long": "17.8616908",
+      "lat": "51.6315149"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Poznaniu",
+    "street": "ul. Bukowska 266",
+    "city": "Poznań",
+    "postcode": "60-967",
+    "county": "wielkopolskie",
+    "telephone": "61 868 10 86",
+    "website": "schronisko.com",
+    "location": {
+      "long": "16.843632",
+      "lat": "52.4119654"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Radlinie k. Jarocina",
+    "street": "Radlin 57 B",
+    "city": "Jarocin",
+    "postcode": "63-200",
+    "county": "wielkopolskie",
+    "telephone": "663-735-974",
+    "website": "schroniskoradlin.pl",
+    "location": {
+      "long": "17.495026",
+      "lat": "52.0330651"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Śremie",
+    "street": "Gaj 56D",
+    "city": "Śrem",
+    "postcode": "63-101",
+    "county": "wielkopolskie",
+    "telephone": "661 222 200",
+    "website": "schroniskogaj.pl",
+    "location": {
+      "long": "16.9403173",
+      "lat": "52.0964467"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Kiczarowie",
+    "street": "Kiczarowo 29",
+    "city": "Stargard",
+    "postcode": "73-110",
+    "county": "zachodniopomorskie",
+    "telephone": "690 010 136",
+    "website": "schronisko.rii.pl",
+    "location": {
+      "long": "15.0653801",
+      "lat": "53.3549479"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Kołobrzegu",
+    "street": "ul. VI Dywizji Piechoty 60",
+    "city": "Kołobrzeg",
+    "postcode": "78-100",
+    "county": "zachodniopomorskie",
+    "telephone": "668 294 373",
+    "website": "brak",
+    "location": {
+      "long": "15.565189",
+      "lat": "54.1557916"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Koszalinie",
+    "street": "ul. Mieszka I 55",
+    "city": "Koszalin",
+    "postcode": "75-950",
+    "county": "zachodniopomorskie",
+    "telephone": "94 340-34-00",
+    "website": "brak",
+    "location": {
+      "long": "16.1339123",
+      "lat": "54.2005751"
+    }
+  },
+  {
+    "name": "Schronisko dla Zwierząt w Szczecinie",
+    "street": "Al. Wojska Polskiego 247",
+    "city": "Szczecin",
+    "postcode": "71-256",
+    "county": "zachodniopomorskie",
+    "telephone": "91 487-02-81",
+    "website": "schronisko.szczecin.pl",
+    "location": {
+      "long": "14.5017031",
+      "lat": "53.4582456"
+    }
+  }
+]
