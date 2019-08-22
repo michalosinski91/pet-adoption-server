@@ -29,8 +29,8 @@ mongoose.connect(mongo_url, { useNewUrlParser: true })
 
 const typeDefs = gql`
     type Coordinates {
-        longitude: String
-        latitude: String
+        longitude: Float
+        latitude: Float
     }
     type Address {
         street: String!
@@ -70,8 +70,8 @@ const typeDefs = gql`
             county: String!
             telephone: String
             website: String
-            longitude: String
-            latitude: String
+            longitude: Float
+            latitude: Float
         ): Shelter
         addAnimal(
             name: String!

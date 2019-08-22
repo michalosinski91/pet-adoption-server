@@ -35,10 +35,10 @@ const shelterSchema = new mongoose.Schema({
         type: String
     },
     longitude: {
-        type: String
+        type: Number
     },
     latitude: {
-        type: String
+        type: Number
     },
     animals: [
         {
