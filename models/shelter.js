@@ -46,10 +46,10 @@ const shelterSchema = new mongoose.Schema({
             ref: 'Animal'
         }
     ],
-    /*administrator: {
+    administrator: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'User'
-    }*/
+    }
     
 })
 
