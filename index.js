@@ -72,6 +72,7 @@ const typeDefs = gql`
     type Query {
         allShelters: [Shelter!]!
         allAnimals: [Animal!]!
+        findUser(id: String!): User
         me: User
     }
     type Mutation {
@@ -111,7 +112,8 @@ const resolvers = {
     Query: {
         allShelters: () => Shelter.find({}).populate('animals'),
         allAnimals: () => Animal.find({}).populate('shelter'),
-        me: (root, args, {currentUser}) => currentUser
+        me: (root, args, {currentUser}) => currentUser,
+        findUser: (root, args) => User.findById(args.id)
     },
     Shelter: {
         address: root => {
