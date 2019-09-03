@@ -23,7 +23,6 @@ mongoose.connect(mongo_url, { useNewUrlParser: true })
 const typeDefs = gql`
     enum Permission {
         ADMIN
-        MOD
         USER
     }
 
@@ -57,6 +56,7 @@ const typeDefs = gql`
         website: String
         coordinates: Coordinates!
         animals: [Animal]!
+        administrator: User
         id: ID!
     }
     type Animal {
@@ -93,7 +93,11 @@ const typeDefs = gql`
             breed: String!
             age: String!
             description: String
-            image: String,
+            image: String!
+            shelter: String!
+        ): Animal
+        removeAnimal(
+            id: String!
             shelter: String!
         ): Animal
         createUser(
@@ -110,7 +114,7 @@ const typeDefs = gql`
 
 const resolvers = {
     Query: {
-        allShelters: () => Shelter.find({}).populate('animals'),
+        allShelters: () => Shelter.find({}).populate('animals').populate('administrator'),
         allAnimals: () => Animal.find({}).populate('shelter'),
         me: (root, args, {currentUser}) => currentUser,
         findUser: (root, args) => User.findById(args.id)
@@ -145,14 +149,28 @@ const resolvers = {
         },
         addAnimal: async (root, args) => {
             const animal = new Animal({ ...args })
+            const shelter = await Shelter.findById(args.shelter)
             try {
                 await animal.save()
+                shelter.animals = shelter.animals.concat(animal.id)
+                await shelter.save()
             } catch (error) {
                 throw new UserInputError(error.message, {
                     invalidArgs: args
                 })
             }
             return animal
+        },
+        removeAnimal: async (root, args) => {
+            const shelter = await Shelter.findById(args.shelter)
+            try {
+                shelter.animals = shelter.animals.filter(animal => animal != args.id)
+                shelter.save()
+                const animal = await Animal.deleteOne({ _id: args.id })
+            } catch (error) {
+                console.log(error)
+            }
+            return shelter
         },
         createUser: async (root, args) => {
             //hashes the password
@@ -187,7 +205,7 @@ const resolvers = {
                 throw new AuthenticationError(`Incorrect password`)
             }
             //if user exists and password matches, returns a token
-            return {value: jwt.sign({ id: user.id }, process.env.SECRET, {expiresIn: '1d'})}
+            return {value: jwt.sign({ id: user.id }, process.env.SECRET, {expiresIn: '2d'})}
         }
     }
 }
@@ -201,9 +219,16 @@ const server = new ApolloServer({
         const token = req ? req.headers.authorization : null
         //if token found, it is decoded by jwt, finds a user in the DB using id stored in the token, and returns the user object
         if (token) {
-            const decodedToken = jwt.verify(token, process.env.SECRET)
-            const currentUser = await User.findById(decodedToken.id)
-            return { currentUser} 
+            try {
+                const decodedToken = jwt.verify(token, process.env.SECRET)
+                const currentUser = await User.findById(decodedToken.id)
+                return { currentUser} 
+        //if token is expired, it throws an error
+            } catch (error) {
+                throw new AuthenticationError(
+                    'Prosze sie zalogowac'
+                )
+            }
         }
 
     }

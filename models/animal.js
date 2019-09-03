@@ -24,7 +24,8 @@ const animalSchema = new mongoose.Schema({
         type: String,
     },
     image: {
-        type: String
+        type: String,
+        required: true
     },
     shelter: {
         type: mongoose.Schema.Types.ObjectId,
