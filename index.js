@@ -31,7 +31,7 @@ const typeDefs = gql`
         username: String!
         password: String!
         id: ID!
-        permissions: [Permission!]!
+        permission: Permission!
         shelter: String
     }
 
@@ -180,7 +180,7 @@ const resolvers = {
                 email: args.email.toLowerCase(), 
                 username: args.username, 
                 password,
-                permissions: ['USER'],
+                permission: 'USER',
                 shelter: ''
             })
             

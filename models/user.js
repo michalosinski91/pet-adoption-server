@@ -16,11 +16,10 @@ const userSchema = new mongoose.Schema({
     },
     password: String,
     shelter: String,
-    permissions: [
-        {
-            type: String
-        }
-    ]
+    permission: {
+        type: String,
+        required: true
+    }
 
 })
 
