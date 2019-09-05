@@ -109,6 +109,10 @@ const typeDefs = gql`
             username: String!
             password: String!
         ): Token
+        updateUserEmail(
+            id: String!
+            email: String!
+        ): User
     }
 `
 
@@ -206,6 +210,25 @@ const resolvers = {
             }
             //if user exists and password matches, returns a token
             return {value: jwt.sign({ id: user.id }, process.env.SECRET, {expiresIn: '2d'})}
+        },
+        updateUserEmail: async (root, args, context) => {
+            const user = await User.findById(args.id)
+            user.email = args.email
+            const currentUser = context.currentUser
+
+            if (!currentUser) {
+                throw new AuthenticationError('Musisz byc zalogowany aby dokonac tej operacji')
+            }
+
+            try {
+                await user.save()
+            } catch (error) {
+                throw new UserInputError(error.message, {
+                    invalidArgs: args
+                })
+            }
+
+            return user
         }
     }
 }
