@@ -201,7 +201,7 @@ const resolvers = {
             //searches user in DB by username, returns user if found, error if not
             const user = await User.findOne({ username: args.username })
             if(!user) {
-                throw new UserInputError(`User ${args.username} does not exist`)
+                throw new UserInputError(`Użytkownik ${args.username} nie istnieje`)
             }
             //compares password from db to one given, returns error if passwords do not match
             const valid = await bcrypt.compare(args.password, user.password)
@@ -209,7 +209,7 @@ const resolvers = {
                 throw new AuthenticationError(`Incorrect password`)
             }
             //if user exists and password matches, returns a token
-            return {value: jwt.sign({ id: user.id }, process.env.SECRET, {expiresIn: '2d'})}
+            return {value: jwt.sign({ id: user.id }, process.env.SECRET, {expiresIn: '1d'})}
         },
         updateUserEmail: async (root, args, context) => {
             const user = await User.findById(args.id)
@@ -217,7 +217,7 @@ const resolvers = {
             const currentUser = context.currentUser
 
             if (!currentUser) {
-                throw new AuthenticationError('Musisz byc zalogowany aby dokonac tej operacji')
+                throw new AuthenticationError('Musisz być zalogowany aby dokonać tej operacji')
             }
 
             try {
@@ -249,7 +249,7 @@ const server = new ApolloServer({
         //if token is expired, it throws an error
             } catch (error) {
                 throw new AuthenticationError(
-                    'Prosze sie zalogowac'
+                    'Proszę się zalogowac'
                 )
             }
         }
