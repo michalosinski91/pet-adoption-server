@@ -4,7 +4,7 @@ const animalSchema = new mongoose.Schema({
     name: {
         type: String,
         required: true,
-        minlength: 3,
+        minlength: 2,
     },
     type: {
         type: String,
@@ -14,7 +14,7 @@ const animalSchema = new mongoose.Schema({
     breed: {
         type: String,
         required: true,
-        minlength: 3
+        minlength: 1
     },
     age: {
         type: String,
