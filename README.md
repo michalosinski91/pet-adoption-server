@@ -2,8 +2,9 @@
 
 Using GraphqQL, Apollo Server, MongoDB and Mongoose
 
-TODO:
-<br>
+Client-side code available here: https://github.com/michalosinski91/pet-adoption-client
+
+TO DO:
+
     - Improve JWT authentication/authorization
-<br>
     - Models for Messaging functionality
